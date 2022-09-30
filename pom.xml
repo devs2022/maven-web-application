@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://184.72.196.102:8081/repository/tesla-fe-snapshots/</url>
+	      <url>http://172.31.95.60:8081/repository/tesla-fe-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
